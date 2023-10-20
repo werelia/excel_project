@@ -27,3 +27,5 @@ Once the data collection and cleaning phase was complete, I proceeded with data 
 #### Insights 
 
 The analysis in a dynamic way, depending on selected data filters such as region, marital status or education level, provides information on gender, age group of buyers and purpose of commuting.
+
+![Alt text](/Bike.png?raw=true "")
