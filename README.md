@@ -1,4 +1,4 @@
-# Excel Projects
+# Excel Projects 
 
 This repository consists of projects and analyzes in Excel.
 
