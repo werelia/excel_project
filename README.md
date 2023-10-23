@@ -4,6 +4,8 @@ This repository consists of projects and analyzes in Excel.
 
 
 
+
+
 ## Excel Bike Project
 
 The goal of this project was to improve my skills in organizing and manipulating data, performing calculations and analyses, and creating visual representations of data using graphs and charts. The final results of my work can be found in the "Excel Bike Dataset.xlsx" file in the "Dashboard" tab.
