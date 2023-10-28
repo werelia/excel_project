@@ -39,7 +39,7 @@ In this project, I used Excel to create an interactive dashboard to obtain infor
 
 #### Data Cleaning 
 
-I downloaded the data from Kaggle ("Sales Data - Raw.xlsx") and started cleaning it.
+I downloaded the data from Kaggle ("salesdata.csv") and started cleaning it.
 
 - I started by removing empty lines from the data, changed data types and got rid of duplicates.
 
